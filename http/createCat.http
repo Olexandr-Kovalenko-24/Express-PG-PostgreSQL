@@ -1,0 +1,10 @@
+POST http://localhost:5000/ HTTP/1.1
+Content-Type: application/json
+
+{
+    "name": "Pedro",
+    "breed": "wild",
+    "color": "gray",
+    "birthday": "2014-11-08",
+    "weight": 33.2
+}
